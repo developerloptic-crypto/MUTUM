@@ -5,7 +5,7 @@
         <item>
             <title>Version 1.1.0</title>
             <pubDate>Sat, 20 Jun 2026 18:46:00 +0900</pubDate>
-            <description>MUTUM 1.1.0 のアップデート：Enhanced AI behaivor.</description>
+            <description>MUTUM 1.1.0 Update：Enhanced AI behaivor.</description>
             <enclosure url="https://github.com/developerloptic-crypto/MUTUM/releases/download/v1.1.0/MUTUM_v_1.1.dmg" sparkle:version="2" sparkle:shortVersionString="1.1.0" length="3774976" type="application/octet-stream" sparkle:edSignature="2/iPp1+f6zgUwzlO38ar3Lb8gpiKpX/cbzMzP+c6Hq3PGwIPxYHA/IKrKSx781NxuP9YUTJwXhDTMhbuZh1NDg==" />
         </item>
     </channel>
