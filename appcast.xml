@@ -3,7 +3,7 @@
     <channel>
         <title>MUTUM</title>
 <item>
-    <title>Version 1.1.0 (AI周りのアップデート)</title>
+    <title>Version 1.1.0 (Update on AI behavior)</title>
     <sparkle:releaseNotesLink>
         https://developerloptic-crypto.github.io/MUTUM/releasenotes.html
     </sparkle:releaseNotesLink>
@@ -14,7 +14,7 @@
         sparkle:shortVersionString="1.1.0"
         length="3774976"
         type="application/octet-stream"
-        sparkle:edSignature="2/iPp1+f6zgUwzlO38ar3Lb8gpiKpX/cbzMzP+c6Hq3PGwIPxYHA/IKrKSx781NxuP9YUTJwXhDTMhbuZh1NDg=="
+        sparkle:edSignature="2/iPp1+f6zgUwzlO38ar3Lb8gpiKpX/cbzMzP+c6Hq3PGwIPxYHA/IKrKSx781NxuP9YUTJwXhDTMhbuZh1NDg=="　/>
 </item>
     </channel>
 </rss>
