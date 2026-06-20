@@ -2,13 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>MUTUM</title>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 18 Jun 2026 19:09:53 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/developerloptic-crypto/MUTUM/releases/download/v1.0.0/MUTUM_v_1.0.dmg" length="10397696" type="application/octet-stream" sparkle:edSignature="5aoO8uTZ1zWExCRKvnkfNCxgZpBIzty6JS/Xnk93O7jcdUnUmJImbH3++b5PpaxQF0Yk7is3xII2Lz/nI5yFAQ=="/>
-        </item>
+<item>
+    <title>Version 1.1.0 (AI周りのアップデート)</title>
+    <sparkle:releaseNotesLink>
+        https://developerloptic-crypto.github.io/MUTUM/releasenotes.html
+    </sparkle:releaseNotesLink>
+    <pubDate>Sat, 20 Jun 2026 18:46:00 +0900</pubDate>
+    <enclosure 
+        url="https://github.com/developerloptic-crypto/MUTUM/releases/download/v1.1.0/MUTUM_v_1.1.dmg"
+        sparkle:version="1.1.0"
+        sparkle:shortVersionString="1.1.0"
+        length=3774976"
+        type="application/octet-stream"
+        sparkle:edSignature="2/iPp1+f6zgUwzlO38ar3Lb8gpiKpX/cbzMzP+c6Hq3PGwIPxYHA/IKrKSx781NxuP9YUTJwXhDTMhbuZh1NDg==" />
+</item>
     </channel>
 </rss>
