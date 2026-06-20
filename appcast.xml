@@ -10,7 +10,7 @@
     <pubDate>Sat, 20 Jun 2026 18:46:00 +0900</pubDate>
     <enclosure 
         url="https://github.com/developerloptic-crypto/MUTUM/releases/download/v1.1.0/MUTUM_v_1.1.dmg"
-        sparkle:version="1.1.0"
+        sparkle:version="2"
         sparkle:shortVersionString="1.1.0"
         length="3774976"
         type="application/octet-stream"
