@@ -6,7 +6,7 @@
             <title>Version 1.1.0</title>
             <pubDate>Sat, 20 Jun 2026 18:46:00 +0900</pubDate>
             <description>Release Notes: Enhanced AI behavior for better local inference.</description>
-            <enclosure url="https://github.com/developerloptic-crypto/MUTUM/releases/download/v1.1.0/MUTUM_v_1.1.zip" sparkle:version="2" sparkle:shortVersionString="1.1.0" length="3881637" type="application/octet-stream" sparkle:edSignature="lHtaHTIM6FcQplycOnc5lH+43NmMUNJBhtd2Zi1PsBo+Gn92Dolf7Jex1/CiV9eTSQ9JvEsuEkWASIy8dOsZAQ==" />
+            <enclosure url="https://github.com/developerloptic-crypto/MUTUM/releases/download/v1.1.0/MUTUM.1.1.0.zip" sparkle:version="2" sparkle:shortVersionString="1.1.0" length="3881637" type="application/octet-stream" sparkle:edSignature="lHtaHTIM6FcQplycOnc5lH+43NmMUNJBhtd2Zi1PsBo+Gn92Dolf7Jex1/CiV9eTSQ9JvEsuEkWASIy8dOsZAQ==" />
         </item>
     </channel>
 </rss>
