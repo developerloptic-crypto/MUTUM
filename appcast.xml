@@ -3,10 +3,10 @@
     <channel>
         <title>MUTUM</title>
         <item>
-            <title>Version 1.1.0</title>
-            <pubDate>Sat, 20 Jun 2026 18:46:00 +0900</pubDate>
-            <description>Release Notes: Enhanced AI behavior for better local inference.</description>
-                <enclosure url="https://github.com/developerloptic-crypto/MUTUM/releases/download/v1.1.1/MUTUM_v1.1.1.zip" sparkle:version="5" sparkle:shortVersionString="1.1.1" length="3909696" type="application/octet-stream" sparkle:edSignature="esucfa/Gzo9/YEb247UmidIlgUUETNeQEf1UCEZp5891ZaezqBmtdMrIS7+VylO5KuvjJ2KEJU9wT606C5ICCQ==" />
+            <title>Version 2.0.0</title>
+            <pubDate>Sat, 24 Jun 2026 17:48:00 +0900</pubDate>
+            <description>Release Notes: Add image generation function.</description>
+                <enclosure url="https://github.com/developerloptic-crypto/MUTUM/releases/download/v.2.0.0/MUTUM2.0.0.zip" sparkle:version="6" sparkle:shortVersionString="2.0.0" length=4006491" type="application/octet-stream" sparkle:edSignature="/pppUvOoiBZEX/skI8LKdErhw/23nmRR5uZ0z+rMiNJpZKeNzCGkVTK+7/2++j1Ji/gURtY/VOSzENbaGUmlDg=="  />
         </item>
     </channel>
 </rss>
