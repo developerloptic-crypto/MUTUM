@@ -4,7 +4,7 @@
         <title>MUTUM</title>
         <item>
             <title>Version 2.0.0</title>
-            <pubDate>Wed, 24 Jun 2026 17:48:00 +0900</pubDate>
+            <pubDate>Wed, 25 Jun 2026 14:29:00 +0900</pubDate>
             <description>Release Notes: Add image generation function.</description>
     </channel>
                 <enclosure url="https://github.com/developerloptic-crypto/MUTUM/releases/download/v.2.0.0/MUTUM2.0.0.zip" sparkle:version="9" sparkle:shortVersionString="2.0.0" length="4004928" type="application/octet-stream" sparkle:edSignature="1e/GPaQnWPWNsiLGOW0Q56lKpquAovpN2/UkX2oBSUTpRgUpeXzepZNoangVCiEe/GNSQCqVRP9VsgTHiTl7BA==" />
