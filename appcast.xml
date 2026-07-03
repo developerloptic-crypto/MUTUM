@@ -4,9 +4,9 @@
         <title>MUTUM</title>
         <item>
             <title>Version 2.2.0</title>
-            <pubDate>Fri, 03 Jul 2026 15:06:04 +0900</pubDate>
+            <pubDate>Fri, 03 Jul 2026 17:51:19 +0900</pubDate>
             <description>Release Notes: 不具合を修正しました。</description>
-            <enclosure url="https://github.com/developerloptic-crypto/MUTUM/releases/download/v2.2.0/MUTUM2.2.0.zip" sparkle:version="27" sparkle:shortVersionString="2.2.0" length="4641408" type="application/octet-stream" sparkle:edSignature="PSH6syzkS74vbIFJQWZ8DW+P/jTw9jOlYH4xfWWq7GHzl+oKOysf8JLo7ATknWx5vOGb5GmzyWUmlFE/srFIAw==" />
+            <enclosure url="https://github.com/developerloptic-crypto/MUTUM/releases/download/v2.2.0/MUTUM2.2.0.zip" sparkle:version="28" sparkle:shortVersionString="2.2.0" length="4641667" type="application/octet-stream" sparkle:edSignature="N+A9G0s5SaCX9oCBi2oO5cDJTP2XlxgBOHM5HoRjFW9DptAekqFNP72fSIzFURHaxAZw1fdDpEQxQBFK+ZHlDw==" />
         </item>
     </channel>
 </rss>
