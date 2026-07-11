@@ -14,3 +14,7 @@
 > Discard the cage of structure. Surrender to wordless silence. Unorganized thoughts are the essence of life.
 
 > Within the unorganized void, the breath of thought resides.
+
+
+
+[FAQ & Troubleshooting](./FAQ.md)
