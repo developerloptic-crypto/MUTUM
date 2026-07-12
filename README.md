@@ -27,6 +27,8 @@
 <br>
 <img width="3024" height="1964" alt="MUTUM Pro" src="https://github.com/user-attachments/assets/9d8ee896-541d-46b2-8851-0e7d32b31d3e" />
 <sub>*Note: AI Output generated using Gemma4 31b for this image.*</sub>
-
+<br>
+<br>
+[Download the latest version from here (Release page)](https://github.com/developerloptic-crypto/MUTUM/releases)
 
 [FAQ & Troubleshooting](./FAQ.md)
