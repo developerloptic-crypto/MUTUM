@@ -1,6 +1,6 @@
 # MUTUM
 
-> **Mute the AI noise.**
+> **Mute the AI noise. Attune your inner ghost.**
 
 ### 🧩 Slips (Inputs)
 * **Task:** Build a sanctuary for quiet thought.
