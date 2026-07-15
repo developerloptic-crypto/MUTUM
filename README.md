@@ -1,6 +1,8 @@
 # MUTUM
 
-> **Mute the AI noise. Attune your inner ghost.**
+## *Mute the AI noise. Attune your inner ghost.*
+
+<br>
 
 ### 🧩 Slips (Inputs)
 
@@ -9,6 +11,7 @@
 * **Persona:** Long texts are a heavy burden.
 * **Core Need:** Face the true thoughts within.
 <br>
+
 ### 🌌 Ghost Whispers (Outputs)
 
 * No titles. No labels. No emojis. Zero cognitive bias.
