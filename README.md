@@ -16,9 +16,9 @@
 
 * No titles. No labels. No emojis. Zero cognitive bias.
 
-> Discard the cage of structure. Surrender to wordless silence. Unorganized thoughts are the essence of life.
+*> Discard the cage of structure. Surrender to wordless silence. Unorganized thoughts are the essence of life.*
 
-> Within the unorganized void, the breath of thought resides.
+*> Within the unorganized void, the breath of thought resides.*
 
 
 <video src="https://github.com/user-attachments/assets/828398e0-d79c-4fd9-ad10-521691739de2" autoplay loop muted playsinline width="100%"></video>
