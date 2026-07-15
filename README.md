@@ -25,6 +25,9 @@
 <sub>*Note: AI Output generated using AFM for this video.*</sub>
 <br>
 <br>
+<img width="1470" height="956" alt="Screenshot 2026-07-16 at 7 52 19" src="https://github.com/user-attachments/assets/1b886b40-5d64-4a04-93f9-154f87f66ee0" />
+<br>
+<br>
 <img width="3024" height="1964" alt="MUTUM Pro" src="https://github.com/user-attachments/assets/9d8ee896-541d-46b2-8851-0e7d32b31d3e" />
 <sub>*Note: AI Output generated using Gemma4 31b for this image.*</sub>
 <br>
